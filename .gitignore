@@ -1,0 +1,7 @@
+candidates/*
+data/*
+downloads/*
+
+!candidates/.gitkeep
+!data/.gitkeep
+!downloads/.gitkeep
